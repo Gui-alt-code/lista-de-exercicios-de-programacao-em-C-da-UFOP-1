@@ -1,8 +1,8 @@
-# 🌟 Lista de Exercícios de Programação I – UFOP
+# 🌟 Lista de Exercícios de Programação da Linguagem C (I) – UFOP
 
 ## 📚 Descrição
 
-Este repositório contém a primeira **lista de exercícios de programação**, desenvolvida com o objetivo de **auxiliar no treino e no aprimoramento das habilidades em lógica de programação e desenvolvimento de algoritmos**, no contexto acadêmico da **Universidade Federal de Ouro Preto (UFOP)**.
+Este repositório contém a primeira **lista de exercícios de programação** de linguagem C, desenvolvida com o objetivo de **auxiliar no treino e no aprimoramento das habilidades em lógica de programação e desenvolvimento de algoritmos**, no contexto acadêmico da **Universidade Federal de Ouro Preto (UFOP)**.
 
 Os exercícios aqui disponibilizados **não são de autoria do mantenedor deste repositório**, sendo eles **formulados pelo Prof. Dr. Rafael Alexandre**, docente da UFOP, como parte de atividades didáticas voltadas ao ensino de programação.
 
