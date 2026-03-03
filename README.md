@@ -1,4 +1,4 @@
-# 🌟 Lista de Exercícios de Programação da Linguagem C (I) – UFOP
+# 🌟 Lista de Exercícios de Programação da Linguagem C (1) – UFOP
 
 ## 📚 Descrição
 
